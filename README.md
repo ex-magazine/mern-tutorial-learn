@@ -32,3 +32,19 @@ pacific-sierra-23116
 git subtree push --prefix server heroku master
 
 heroku config:set
+
+
+git remote add origin https://///
+
+git push -u origin main
+
+elastic-agnesi-8e3579.netlify.app
+https://elastic-agnesi-8e3579.netlify.app/login
+
+
+
+CL= '' npm run build
+
+npx create-react-app --template typescript
+
+npm install redux react-redux redux-saga axios moment

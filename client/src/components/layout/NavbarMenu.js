@@ -48,6 +48,13 @@ const NavbarMenu = () => {
 					>
 						About
 					</Nav.Link>
+          <Nav.Link
+						className='font-weight-bolder text-white'
+						to='/article'
+						as={Link}
+					>
+						Article
+					</Nav.Link>
 				</Nav>
 
 				<Nav>
